@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Water Pollution Reporter</string>
+
+    <!-- Permission messages -->
+    <string name="camera_permission_message">Camera access is needed to take photos of pollution incidents.</string>
+    <string name="location_permission_message">Location access is needed to tag reports with accurate coordinates.</string>
+</resources>
